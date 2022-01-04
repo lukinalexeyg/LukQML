@@ -1,4 +1,4 @@
 module LukQml
 plugin LukQml
-classname LukQml
+classname LukQmlPlugin
 typeinfo plugin.qmltypes
